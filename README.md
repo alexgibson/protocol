@@ -8,7 +8,7 @@ https://mozilla-protocol.netlify.com/
 
 Protocol is built on the [Node.js](https://nodejs.org/) platform and published to [NPM](https://www.npmjs.com/), so be sure to have both installed before proceeding.
 
-## Installation
+## Quick Installation
 
 To use Protocol in your website you can install the core package directly from NPM:
 
